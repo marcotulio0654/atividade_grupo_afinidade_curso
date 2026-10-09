@@ -1,0 +1,11 @@
+#ELETRICA
+* Eu tenho disciplina para seguir regras rígidas de segurança?
+
+#MECANICA
+* Eu tenho paciência e facilidade para lidar com ferramentas manuais?
+
+#TI
+* Eu consigo me lidar bem com passar várias horas do dia sentado em frente a um computador?
+
+#CULINARIA
+* Eu consigo me lidar bem com críticas diretas e prazos apertados?
