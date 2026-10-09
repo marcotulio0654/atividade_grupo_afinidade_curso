@@ -1,11 +1,19 @@
 #ELETRICA
 * Eu tenho disciplina para seguir regras rígidas de segurança?
 
+ A água conduz eletricidade? 
+
 #MECANICA
 * Eu tenho paciência e facilidade para lidar com ferramentas manuais?
+
+Andar com o carro sempre na reserva de combustível pode estragar a bomba de combustível? 
 
 #TI
 * Eu consigo me lidar bem com passar várias horas do dia sentado em frente a um computador?
 
+Usar a mesma senha para todas as minhas contas na internet é seguro? 
+
 #CULINARIA
 * Eu consigo me lidar bem com críticas diretas e prazos apertados?
+
+ Pode colocar vasilhas de vidro temperado dentro do micro-ondas?
